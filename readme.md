@@ -20,6 +20,9 @@ Welcome to my C++ learning repository! This repository documents my journey lear
 
 ## 📝 Study Notes
 
+### Chapter Wise Notes
+[Chapter 1](./notes/Chapters/chapter1.md)
+
 ### Basic Concepts
 <!-- - [Variables and Data Types](./notes/basics/data-types.md) -->
 <!-- - [Control Structures](./notes/basics/control-structures.md) -->
