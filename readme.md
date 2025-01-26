@@ -22,6 +22,9 @@ Welcome to my C++ learning repository! This repository documents my journey lear
 
 ### Chapter Wise Notes
 [Chapter 1](./notes/Chapters/chapter1.md)
+[Chapter 2](./notes/Chapters/chapter2.md)
+[Chapter 3](./notes/Chapters/chapter3.md)
+[Chapter 4](./notes/Chapters/chapter4.md)
 
 ### Basic Concepts
 <!-- - [Variables and Data Types](./notes/basics/data-types.md) -->
