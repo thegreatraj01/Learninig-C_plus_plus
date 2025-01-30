@@ -8,10 +8,13 @@ Welcome to my C++ learning repository! This repository documents my journey lear
 
 - [C++ Reference](https://en.cppreference.com/w/) - Official C++ documentation
 - [ISO C++ Standards](https://isocpp.org/) - C++ standards and updates
-
+---
+- [Note from chai aur code](https://docs.chaicode.com/cpp-introduction/) - Chai aur code notes
 ### Online Courses
 
 - [Chai aur Code - chai aur C++](https://youtu.be/gCkPJTSZ9mU?si=4X7RjLuLq1B9zsOl)
+- [Learn cpp](https://www.learncpp.com/) - A very well written C++ course
+
 
 ### YouTube Channels
 
