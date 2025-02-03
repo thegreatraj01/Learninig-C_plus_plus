@@ -39,6 +39,7 @@ Welcome to my C++ learning repository! This repository documents my journey lear
 
 - [Variables and Data Types](./notes/Chapters/chapter4.md)  
 - [Control Structures](./notes/Chapters/chapter4.md)  
+- [Control Structures Loops](./05_Loops)  
   <!-- - [Functions](./notes/basics/functions.md) -->
 
 ### Object-Oriented Programming
@@ -68,6 +69,7 @@ Welcome to my C++ learning repository! This repository documents my journey lear
 - [x] Basic Syntax
 - [x] Variables and Data Types
 - [x] Operators and Control Flow
+- [x] Loops
 
 <!-- ### Week 2
 - [ ] Functions
