@@ -8,13 +8,15 @@ Welcome to my C++ learning repository! This repository documents my journey lear
 
 - [C++ Reference](https://en.cppreference.com/w/) - Official C++ documentation
 - [ISO C++ Standards](https://isocpp.org/) - C++ standards and updates
+
 ---
+
 - [Note from chai aur code](https://docs.chaicode.com/cpp-introduction/) - Chai aur code notes
+
 ### Online Courses
 
 - [Chai aur Code - chai aur C++](https://youtu.be/gCkPJTSZ9mU?si=4X7RjLuLq1B9zsOl)
 - [Learn cpp](https://www.learncpp.com/) - A very well written C++ course
-
 
 ### YouTube Channels
 
@@ -37,10 +39,10 @@ Welcome to my C++ learning repository! This repository documents my journey lear
 
 ### Basic Concepts
 
-- [Variables and Data Types](./notes/Chapters/chapter4.md)  
-- [Control Structures](./notes/Chapters/chapter4.md)  
-- [Control Structures Loops](./05_Loops)  
-  <!-- - [Functions](./notes/basics/functions.md) -->
+- [Variables and Data Types](./notes/Chapters/chapter4.md)
+- [Control Structures](./notes/Chapters/chapter4.md)
+- [Control Structures Loops](./05_Loops)
+  - [Functions](./notes/Chapters/chapter8.md)
 
 ### Object-Oriented Programming
 
@@ -71,10 +73,11 @@ Welcome to my C++ learning repository! This repository documents my journey lear
 - [x] Operators and Control Flow
 - [x] Loops
 
-<!-- ### Week 2
-- [ ] Functions
-- [ ] Arrays and Strings
-- [ ] Pointers -->
+### Week 2
+
+- [x] Functions
+  <!-- - [ ] Arrays and Strings -->
+  <!-- - [ ] Pointers  -->
 
 ## 🔧 Development Setup
 
