@@ -42,11 +42,11 @@ Welcome to my C++ learning repository! This repository documents my journey lear
 - [Variables and Data Types](./notes/Chapters/chapter4.md)
 - [Control Structures](./notes/Chapters/chapter4.md)
 - [Control Structures Loops](./05_Loops)
-  - [Functions](./notes/Chapters/chapter8.md)
+- [Functions](./notes/Chapters/chapter8.md)
 
 ### Object-Oriented Programming
 
-<!-- - [Classes and Objects](./notes/oop/classes.md) -->
+- [Classes and Objects](./notes/Chapters/chapter9.md)
 <!-- - [Inheritance](./notes/oop/inheritance.md) -->
 <!-- - [Polymorphism](./notes/oop/polymorphism.md) -->
 
@@ -76,8 +76,8 @@ Welcome to my C++ learning repository! This repository documents my journey lear
 ### Week 2
 
 - [x] Functions
-  <!-- - [ ] Arrays and Strings -->
-  <!-- - [ ] Pointers  -->
+- [x] Arrays and Strings
+- [x] Pointers 
 
 ## 🔧 Development Setup
 
