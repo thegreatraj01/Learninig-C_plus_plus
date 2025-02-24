@@ -78,6 +78,9 @@ Welcome to my C++ learning repository! This repository documents my journey lear
 - [x] Functions
 - [x] Arrays and Strings
 - [x] Pointers 
+- [x] Vector 
+- [x] set 
+- [x] deque 
 
 ## 🔧 Development Setup
 
